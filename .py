@@ -7,3 +7,5 @@ teachers = {
     "teacher1": "1234",
     "admin": "admin123"
 }
+login_page = """
+<!DOCTYPE html>
