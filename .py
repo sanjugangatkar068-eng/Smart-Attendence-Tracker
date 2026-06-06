@@ -14,3 +14,4 @@ login_page = """
 <!DOCTYPE html>
 <html>
 <head>
+    <title>Teacher Login</title>
