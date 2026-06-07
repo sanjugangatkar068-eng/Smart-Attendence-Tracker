@@ -15,3 +15,8 @@ login_page = """
 <html>
 <head>
     <title>Teacher Login</title>
+     <style>
+        body{
+            font-family: Arial;
+            background-color: #f0f2f5;
+        }
