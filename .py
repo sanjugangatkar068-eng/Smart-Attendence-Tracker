@@ -15,8 +15,10 @@ login_page = """
 <html>
 <head>
     <title>Teacher Login</title>
-     <style>
+    <style>
         body{
             font-family: Arial;
             background-color: #f0f2f5;
         }
+
+        .login-box{
