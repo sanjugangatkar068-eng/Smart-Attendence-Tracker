@@ -23,3 +23,4 @@ login_page = """
 
         .login-box{
             width: 350px;  
+            margin: 100px auto;
