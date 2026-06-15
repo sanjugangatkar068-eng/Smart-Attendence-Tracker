@@ -25,3 +25,5 @@ login_page = """
             width: 350px;  
             margin: 100px auto;
             padding: 30px;
+            background: white;
+            
