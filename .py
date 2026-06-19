@@ -28,3 +28,5 @@ login_page = """
             background: white;
             border-radius: 10px;
             box-shadow: 0px 0px 10px gray;
+         
+          h2{
