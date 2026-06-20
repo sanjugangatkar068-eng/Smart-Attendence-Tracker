@@ -30,3 +30,5 @@ login_page = """
             box-shadow: 0px 0px 10px gray;
          
           h2{
+              text-align: center;
+        }
