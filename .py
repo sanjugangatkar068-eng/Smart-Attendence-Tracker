@@ -32,3 +32,4 @@ login_page = """
           h2{
               text-align: center;
         }
+          input{
