@@ -33,3 +33,4 @@ login_page = """
               text-align: center;
         }
           input{
+          width: 100%;
