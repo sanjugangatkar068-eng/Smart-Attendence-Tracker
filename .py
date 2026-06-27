@@ -39,3 +39,4 @@ login_page = """
 
        }
        button{
+             width: 100%;
