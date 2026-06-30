@@ -40,3 +40,4 @@ login_page = """
        }
        button{
              width: 100%;
+             padding: 10px;
