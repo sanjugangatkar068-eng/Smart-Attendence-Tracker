@@ -45,3 +45,4 @@ login_page = """
              background-color: #007bff;
              color: white;
              width: 100%;
+             padding: 10px;
