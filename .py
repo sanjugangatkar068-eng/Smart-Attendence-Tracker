@@ -49,3 +49,4 @@ login_page = """
              margin-top: 15px;
              background-color: #007bff;
              color: white;
+             border: none;
