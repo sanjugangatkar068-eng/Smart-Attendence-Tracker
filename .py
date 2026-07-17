@@ -50,3 +50,4 @@ login_page = """
              background-color: #007bff;
              color: white;
              border: none;
+             cursor: pointer;
