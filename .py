@@ -51,3 +51,4 @@ login_page = """
              color: white;
              border: none;
              cursor: pointer;
+          }
