@@ -57,3 +57,4 @@ login_page = """
        }
 
         .error{
+              color: red;
