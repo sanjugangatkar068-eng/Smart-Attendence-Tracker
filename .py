@@ -58,3 +58,4 @@ login_page = """
 
         .error{
               color: red;
+              text-align: center;
